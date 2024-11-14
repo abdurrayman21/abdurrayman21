@@ -30,7 +30,7 @@ I'm a passionate **Software Engineering student** and **Freelance AI Engineer** 
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/abdur-rayman-96324832a)
+- [LinkedIn](https://www.linkedin.com/in/abdur-rayman-96324832a/)
 - [GitHub](https://github.com/abdurrayman21)
 - [Email](abdurraymanraja@gmail.com)
 
