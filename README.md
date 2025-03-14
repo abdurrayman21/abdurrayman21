@@ -28,7 +28,7 @@ I'm a passionate **Software Engineering student** and **Freelance AI Engineer** 
 ![Abdurrayman21's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrayman21&show_icons=true&theme=radical)
   
 ---
-
+.
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/abdur-rayman-96324832a/)
 - [GitHub](https://github.com/abdurrayman21)
