@@ -13,6 +13,7 @@ I'm a passionate **Software Engineering student** and **Freelance AI Engineer** 
 ### 🔬 Featured Projects:
 1. [**Alzheimer's MRI Classification**](https://github.com/abdurrayman21/Alzheimer-s-MRI-Classification) - A deep learning model for classifying Alzheimer’s stages using MRI images, leveraging convolutional neural networks (CNNs) to enhance diagnosis.
 2. [**Urdu MNIST Digit Recognition**](https://github.com/abdurrayman21/Urdu-Mnist-Digit-recog) - An Urdu digit recognition model trained on an MNIST-style dataset for handwritten Urdu digits, enabling digital interpretation of Urdu script.
+3. [**RAG ChatBot**](https://github.com/abdurrayman21/RAG-Retrieval-Augmented-Generation-chatbot) - A smart PDF Question-Answering chatbot built using LangChain, Hugging Face Transformers, and Gradio. Upload any PDF document and ask questions
 
   
 ### 🔧 My Skillset:
